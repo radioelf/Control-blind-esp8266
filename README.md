@@ -1,7 +1,7 @@
 # Control-blind-esp8266 (Kicad Version: 5.99.0-unknown nightly)
-PCB para el control de persianas motorizadas
+PCB + software para el control de persianas motorizadas
 
-PCB for the control of motorized blinds
+PCB + software for the control of motorized blinds
 
 Creative Commons License Disclaimer
 
